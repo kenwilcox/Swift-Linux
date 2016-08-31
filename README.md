@@ -3,7 +3,7 @@ Playing with Swift on Linux
 
 ## Download
 I installed swift from here
-https://swift.org/download/ - I used Swift version 3.0 (swift-3.0-PREVIEW-2)
+https://swift.org/download/ - I used Swift version 3.0 (swift-3.0-PREVIEW-666666)
 
 Followed the instructions to get it working on Linux
 
