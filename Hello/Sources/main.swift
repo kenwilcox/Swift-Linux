@@ -7,8 +7,8 @@ srandom(UInt32(Date().timeIntervalSince1970))
 
 if CommandLine.arguments.count == 1 {
     print("Usage: \(CommandLine.arguments[0]) NAME")
-    var randInt = (random() % 20) + 1
-    var fact = factorial(n: randInt)
+    let randInt = (random() % 20) + 1
+    let fact = factorial(n: randInt)
     print("Random Factorial: factorial(\(randInt)) = \(fact)")
 } else {
     //let name = CommandLine.arguments[1]
